@@ -1,0 +1,16 @@
+﻿# Spring Boot database credentials
+**/application.properties
+**/application.yml
+
+# Environment variables
+.env
+.env.*
+
+# Build files
+target/
+node_modules/
+dist/
+
+# IDE files
+.idea/
+.vscode/
